@@ -1,4 +1,4 @@
-NOT PUBLISHED YET. SORYY.
+NOT PUBLISHED YET. SORRY.
 
 #Database for terminal.
 Hello! I'm mar-ven.
